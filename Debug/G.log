@@ -1,0 +1,27 @@
+﻿生成启动时间为 2015/12/17 9:52:02。
+     1>项目“C:\Users\Administrator\Desktop\G\G.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\G.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\vitual studio\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp
+         Game.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\vitual studio\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\G\Debug\G.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\实验作业\SDL2_ttf-2.0.12\lib\x86" /LIBPATH:"E:\实验作业\SDL2_image-2.0.0\lib\x86" /LIBPATH:"E:\实验作业\SDL2-devel-2.0.3-VC\SDL2-2.0.3\lib\x86" SDL2main.lib SDL2test.lib SDL2.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\G.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\G\Debug\G.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\G\Debug\G.lib" /MACHINE:X86 Debug\G.exe.embed.manifest.res
+         Debug\Game.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\G.exe.embed.manifest" /manifest Debug\G.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         G.vcxproj -> C:\Users\Administrator\Desktop\G\Debug\G.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\G.unsuccessfulbuild”。
+         正在对“Debug\G.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\G\G.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.26
